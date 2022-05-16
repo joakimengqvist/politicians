@@ -1,0 +1,14 @@
+.activeCustomHeaderMenu {
+    border-bottom: 3px solid lightblue !important;
+    color: white !important;
+    margin: 0px 10px 0px 0px !important;
+    height: 100% !important;
+  }
+  
+  .notActiveCustomHeaderMenu {
+    border-bottom: none !important;
+    color: white !important;
+    margin: 0px 10px 0px 0px !important;
+    height: 100% !important;
+  }
+  
