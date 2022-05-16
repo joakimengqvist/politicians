@@ -1,5 +1,5 @@
 # Start project
 
-`yarn install`.\
-`gatsby build`.\
-`gatsby serve`.\
+`yarn install`\
+`gatsby build`\
+`gatsby serve`
